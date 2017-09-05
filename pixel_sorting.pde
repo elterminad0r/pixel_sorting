@@ -1,3 +1,5 @@
+//slightly modified by Izaak van Dongen. Originally by:
+
 // Daniel Shiffman
 // http://codingrainbow.com
 // http://patreon.com/codingrainbow
